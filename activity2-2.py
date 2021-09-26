@@ -17,6 +17,7 @@ def changesize(width, height):
     glMatrixMode(GL_MODELVIEW)
 
 
+
 def cube():
 
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
